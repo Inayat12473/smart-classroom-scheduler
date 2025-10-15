@@ -1,5 +1,3 @@
-# smart-classroom-scheduler
-A Django-based Smart Classroom Scheduling System with user authentication, teacher management, and class timetable automation.
 # 🧠 Smart Classroom Scheduler
 
 A Django-based web application that allows teachers and administrators to manage class schedules efficiently with login, registration, and dashboard functionalities.
@@ -14,7 +12,7 @@ A Django-based web application that allows teachers and administrators to manage
 ## 🛠️ Tech Stack
 - **Backend:** Django
 - **Frontend:** HTML, CSS, Bootstrap
-- **Database:** SQLite
+- **Database:** MySql
 - **Language:** Python
 
 ## ⚙️ Setup Instructions
