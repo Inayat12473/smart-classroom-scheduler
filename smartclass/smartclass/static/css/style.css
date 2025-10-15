@@ -1,0 +1,47 @@
+body {
+
+background: linear-gradient(135deg, #74ABE2, #5563DE);
+
+color: white;
+
+min-height: 100vh;
+
+font-family: 'Poppins', sans-serif;
+
+}
+
+
+
+.hero {
+
+padding: 100px 20px;
+
+}
+
+
+
+.card {
+
+border: none;
+
+border-radius: 12px;
+
+transition: transform 0.3s ease;
+
+}
+
+
+
+.card:hover {
+
+transform: scale(1.05);
+
+}
+
+
+
+footer {
+
+border-top: 1px solid #dee2e6;
+
+}
